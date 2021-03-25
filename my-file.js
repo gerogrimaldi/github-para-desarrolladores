@@ -1,1 +1,1 @@
-alert('REDACTED');
+alert('Segunda edicion');
