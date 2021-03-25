@@ -1,2 +1,2 @@
-# github-para-desarrolladores
+# Curso Github para desarrolladores
 Prueba curso github
